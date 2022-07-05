@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Havoc13Naveen
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anyone who are in python
+- 📫 How to reach me naveenkumars974393@gmail.com
 
 <!---
 Havoc13Naveen/Havoc13Naveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
