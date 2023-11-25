@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Havoc13Naveen
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anyone who are in python
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning various tools in devops
+- 💞️ I’m looking to collaborate on anyone who are in Devops
 - 📫 How to reach me naveenkumars974393@gmail.com
 
 <!---
